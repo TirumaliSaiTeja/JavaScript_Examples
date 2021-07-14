@@ -22,4 +22,4 @@ const fahrenheit = (celsius * 1.8) + 32;
 
 // formula to convert fahrenheit to celsius is celsius = (fahrenheit-32)/1.8
 
-console.log(`Converted fahrenheit is ${fahrenheit}`);
+console.log(`Converted fahrenheit is ${fahrenheit}`); 
