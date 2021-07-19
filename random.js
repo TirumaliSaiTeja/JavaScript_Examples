@@ -6,6 +6,8 @@ console.log(a);
 
 // Sum of natural numbers using recursion.
 
+// Recursion is a process of calling itself
+
 function sum(num){
     if(num>0){
         return num + sum(num-1);
