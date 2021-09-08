@@ -49,6 +49,8 @@ function checkPalindrome(str) {
 //take input
 const string = prompt('Enter a string: ');
 
+// Call the function
+
 checkPalindrome(string);
 
 
