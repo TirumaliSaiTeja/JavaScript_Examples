@@ -14,7 +14,6 @@
 // clockangle(6);
 
 
-// Sum of several arrays
 
 function sum_array(arr){
 
