@@ -1,4 +1,4 @@
-// Simple clock angle
+// Simple clock angle to find the position 
 
 // function clockangle(num){
 
