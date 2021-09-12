@@ -18,6 +18,8 @@ let num3 = prompt("Enter the value for num3");
 
 let largest
 
+// comparission of numbers
+
 if(num1>=num2&&num1>=num3){
     largest = num1;
 }
