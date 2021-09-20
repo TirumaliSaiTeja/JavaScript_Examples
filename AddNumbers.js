@@ -15,7 +15,7 @@ console.log(f);
 // Numbers entered by the user
 
 const num1 = parseInt(prompt('Please enter a value'));
-const num2 = parseInt(prompt('Please enter a value'));
+// const num2 = parseInt(prompt('Please enter a value'));
 
 const sum = num1 + num2;
 
