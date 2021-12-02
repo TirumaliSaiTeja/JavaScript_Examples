@@ -1,7 +1,6 @@
 // Passing a parameter using setTimeout()
 
-// The setTimeout method executes a block of code after the specified time. It only executes once
-
+// The setTimeout method executes a block of code after the specified time. 
 function greet(sayHello){
 console.log(sayHello);
 }
